@@ -1,0 +1,9 @@
+Package: mariner
+Name: locationpush
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: Carter Beaudoin
+Author: Carter Beaudoin
+Section: System
+Tag: role::hacker
